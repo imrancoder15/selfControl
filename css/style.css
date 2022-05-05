@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    background-color: rgb(0, 255, 170);
+    color:azure ;
+    font-size: 45px;
+    text-shadow: 2px 2px rgb(0, 89, 255);
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+b{
+    color: red;
+}
+.one img{
+    width: 100px;
+    float: left;
+    margin: 5px;
+}
